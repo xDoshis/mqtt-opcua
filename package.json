@@ -1,0 +1,16 @@
+{ 
+  "name": "mqtt2opcua",
+  "description": "Bi-directional MQTT OPCUA bridge",
+  "version": "1.0.0",
+  "dependencies": {
+    "mqtt": ">=1.6.9",
+    "node-opcua": ">=2.7.0",
+    "qlobber": "^5.0.0"
+  },
+  "contributors": [
+    "Andrew McClure <andrew@agsense.co.nz> (http://agsense.co.nz)",
+    "hoblins <hoblins@users.noreply.github.com>",
+    "accyroy <accyroy@gmail.com>",
+    "Daria Chekhovskaya <dariachekhovskaya@gmail.com>"
+  ]
+}
